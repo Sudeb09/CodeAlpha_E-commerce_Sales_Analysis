@@ -1,10 +1,10 @@
 # 📊 E-commerce Sales Analysis with Python
 
-**Internship Project** | **CodeAlpha**  
-**Name:** Sudeb Paul  
-**Student ID:** CA/AU1/7749  
-**Domain:** Data Analytics
-**Duration:** August to September 2025  
+**Company :**  **CodeAlpha Pvt Ltd**  
+**Name :** Sudeb Paul  
+**Student ID :** CA/AU1/7749  
+**Domain :** Data Analytics  
+**Duration :** August to September 2025  
 
 ---
 
